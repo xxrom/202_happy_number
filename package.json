@@ -1,0 +1,13 @@
+{
+  "name": "202_happy_number",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nikita <xpom5566@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon --exec 'python main.py' ./main.py"
+  }
+}
